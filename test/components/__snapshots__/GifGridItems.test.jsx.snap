@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem/> matchear con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Programing"
+      src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=83efc29fkosirvby0d0dy978twd4mj8pbtadgysbnn0671vp&rid=giphy.gif&ct=g"
+    />
+    <p>
+       
+      Programing
+       
+    </p>
+  </div>
+</div>
+`;
